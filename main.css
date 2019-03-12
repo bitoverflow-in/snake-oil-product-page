@@ -69,7 +69,8 @@ span{
 }
 
 .snake-oil-pic{
-  width: 80%;
+  width: 100%;
+  padding: 50px 50px 0 0;
 }
 
 p{
